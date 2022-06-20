@@ -5,7 +5,7 @@
 <p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! </p>
 
 - 🌎 I'm based in Austin, Texas
-- 🖥️ See [My Portfolio](http://https://quirky-kalam-cc8cad.netlify.app)
+- 🖥️ See [My Portfolio](https://quirky-kalam-cc8cad.netlify.app)
 - 🔭 I’m currently working on Pomodoro Timer.
 - 🌱 I’m currently learning Algorithms on CodingBat.
 - 👯 I’m looking to collaborate on a FinTech App.
