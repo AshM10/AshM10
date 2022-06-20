@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a FinTech App.
 - 🤔 I’m looking for help with creating a kick-ass Resume.
 - 💬 Ask me about a project collaboration.
-- 📫 How to reach me: Twitter - @sexy_gravy
+- 📫 How to reach me: [Twitter - @sexy_gravy](https://twitter.com/sexy_gravy)
 - 😄 Pronouns: She/Her
 - 🍩 Fun fact: I love donuts!
 
