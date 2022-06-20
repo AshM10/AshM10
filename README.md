@@ -1,21 +1,22 @@
-### Hi there 👋
+### Hi there 👋 <br />
+<h1>My name is Asther Marie Moreno</h1>
+<h2>Web Developer</h2>
 
+<p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! </p>
+
+- 🌎 I'm based in Austin, Texas
+- 🖥️ See [My Portfolio](http://https://quirky-kalam-cc8cad.netlify.app)
 - 🔭 I’m currently working on Pomodoro Timer.
 - 🌱 I’m currently learning Algorithms on CodingBat.
 - 👯 I’m looking to collaborate on a FinTech App.
 - 🤔 I’m looking for help with creating a kick-ass Resume.
 - 💬 Ask me about a project collaboration.
-- 📫 How to reach me: [Twitter - @sexy_gravy](https://twitter.com/sexy_gravy)
+- ✉️ You can contact me at [ashterfuentes@gmail.com](mailto:ashterfuentes@gmail.com)
 - 😄 Pronouns: She/Her
 - 🍩 Fun fact: I love donuts!
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/?username=ashm10&count_private=true&theme=tokyonight&showicons=true">
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashm10&langs_count=5&theme=tokyonight">
-
-<br />
 
 # 🔧 Front End Technologies
 
@@ -101,3 +102,17 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/?username=ashm10&count_private=true&theme=tokyonight&showicons=true">
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashm10&langs_count=5&theme=tokyonight">
+
+### Socials  
+
+<p align="left"> <a href="https://www.facebook.com/sexy.gravyII/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ashtoyo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/\asthermoreno10/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sexy_gravy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCJ5Yf-MrxObPVZBxDIVTxyA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/astherm10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
