@@ -9,3 +9,5 @@
 - 😄 Pronouns: She/Her
 - 🍩 Fun fact: I love donuts!
 
+<img src="https://github-readme-stats.vercel.app/api/?username=ashm10&count_private=true&theme=tokyonight&showicons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashm10&langs_count=5&theme=tokyonight">
