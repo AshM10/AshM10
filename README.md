@@ -6,9 +6,10 @@
 
 - 🌎 I'm based in Austin, Texas
 - 🖥️ See [My Portfolio](https://www.ashmoreno.dev)
-- 🔭 I’m currently working on Pomodoro Timer.
-- 🌱 I’m currently learning Algorithms on CodingBat.
-- 👯 I’m looking to collaborate on a FinTech App.
+- 🔭 I’m currently working on Frontend Mentor challenges.
+- 🌱 I’m currently learning Algorithms via Code Signal, taking up an Agile Certification as well.
+- ☀️ I'm starting to learn how to contribute to open source projects.
+- 👯 I’m looking to collaborate on a FinTech App, or any e-commerce app.
 - 🤔 I’m looking for help with creating a kick-ass Resume.
 - 💬 Ask me about a project collaboration.
 - ✉️ You can contact me at [ashterfuentes@gmail.com](mailto:ashterfuentes@gmail.com)
