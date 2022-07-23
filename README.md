@@ -3,7 +3,7 @@
 <h2>Web Developer</h2>
 
 <p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! <br />
--💼 I would love to accept internship, apprenticeship or entry-level front-end roles!</p>
+I would love to accept internship, apprenticeship or entry-level front-end roles!</p>
 
 - 🌎 I'm based in Austin, Texas
 - 🖥️ See [My Portfolio](https://www.ashmoreno.dev)
