@@ -2,7 +2,8 @@
 <h1>My name is Asther Marie Moreno</h1>
 <h2>Web Developer</h2>
 
-<p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! </p>
+<p>I've been learning to code for more than a year now. I am currently focused on front-end development, but I will continue learning full-stack in the future! <br />
+-💼 I would love to accept internship, apprenticeship or entry-level front-end roles!</p>
 
 - 🌎 I'm based in Austin, Texas
 - 🖥️ See [My Portfolio](https://www.ashmoreno.dev)
@@ -13,7 +14,6 @@
 - 🤔 I’m looking for help with creating a kick-ass Resume.
 - 💬 Ask me about a project collaboration.
 - ✉️ You can contact me at [ashterfuentes@gmail.com](mailto:ashterfuentes@gmail.com)
-- 💼 I would love to accept internship, apprenticeship or entry-level front-end roles!
 - 😄 Pronouns: She/Her
 - 🍩 Fun fact: I love donuts!
 
