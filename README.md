@@ -11,7 +11,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 - 🌱 I’m currently learning Algorithms via Code Signal, taking up an Agile Certification as well.
 - ☀️ I'm starting to learn how to contribute to open source projects.
 - 👯 I’m looking to collaborate on a FinTech App, or any e-commerce app.
-- 🤔 I’m looking for help with creating a kick-ass Resume.
+- 🤔 I’m looking for help with creating a kick-ass Resume, and actively looking for apprenticeship or entry-level front-end roles.
 - 💬 Ask me about a project collaboration.
 - ✉️ You can contact me at [ashterfuentes@gmail.com](mailto:ashterfuentes@gmail.com)
 - 😄 Pronouns: She/Her
