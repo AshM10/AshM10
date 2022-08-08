@@ -8,7 +8,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 - 🌎 I'm based in Austin, Texas
 - 🖥️ See [My Portfolio](https://www.ashmoreno.dev)
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the [#Javascript30](https://www.javascript30.com) challenge
-- 🌱 I’m currently learning Algorithms via Code Signal, taking up an Agile Certification as well.
+- 🌱 I’m currently learning Algorithms via Code Signal, taking up AWS Cloud Practitioner and Agile Certification as well.
 - ☀️ I'm starting to learn how to contribute to open source projects.
 - 👯 I’m looking to collaborate on a FinTech App, or any e-commerce app.
 - 🤔 I’m looking for help with creating a kick-ass Resume, and actively looking for apprenticeship or entry-level front-end roles.
