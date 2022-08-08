@@ -13,7 +13,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 - 👯 I’m looking to collaborate on a FinTech App, or any e-commerce app.
 - 🤔 I’m looking for help with creating a kick-ass Resume, and actively looking for apprenticeship or entry-level front-end roles.
 - 💬 Ask me about a project collaboration.
-- ✉️ You can contact me at [ashterfuentes@gmail.com](mailto:ashterfuentes@gmail.com)
+- ✉️ For work opportunities, you can contact me at [hello@ashmoreno.dev](mailto:hello@ashmoreno.dev)
 - 😄 Pronouns: She/Her
 - 🍩 Fun fact: I love donuts!
 
