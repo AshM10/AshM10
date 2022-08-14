@@ -122,4 +122,3 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 ### See my Skyline 
 
 - [Skyline](https://skyline.github.com/AshM10/2021)
-- <img src="https://skyline.github.com/AshM10/2021"/>
