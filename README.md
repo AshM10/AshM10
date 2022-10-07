@@ -115,6 +115,10 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 <p align="left"> <a href="https://www.facebook.com/sexy.gravyII/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ashtoyo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/\asthermoreno10/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sexy_gravy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCJ5Yf-MrxObPVZBxDIVTxyA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+### Podcasts I Loved:
+
+- [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/astherm10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
