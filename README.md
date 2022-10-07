@@ -119,10 +119,11 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 - [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
 
+### See my Skyline 
+
+- [Skyline](https://skyline.github.com/AshM10/2021)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/astherm10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### See my Skyline 
-
-- [Skyline](https://skyline.github.com/AshM10/2021)
