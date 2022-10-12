@@ -117,7 +117,12 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 ### Podcast I Love:
 
-- [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
+- 🎧 [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
+
+### Current Reads:
+
+- 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
+- 📒 [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
 
 ### See my Skyline 
 
