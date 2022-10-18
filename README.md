@@ -119,6 +119,10 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 - 🎧 [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
 
+### Holopin Badges:
+
+[![@ashm10's Holopin board](https://holopin.me/ashm10)](https://holopin.io/@ashm10)
+
 ### Current Reads:
 
 - 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
