@@ -123,6 +123,10 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 [![@ashm10's Holopin board](https://holopin.me/ashm10)](https://holopin.io/@ashm10)
 
+### Codewars Badges:
+
+<img src="https://www.codewars.com/users/AshM10/badges/large" width="1000" />
+
 ### Current Reads:
 
 - 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
