@@ -138,6 +138,7 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 - 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
 - 📒 [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+- 📒 [Awesome Readme Examples for Writing better Readmes](https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3)
 
 ### See my Skyline 
 
