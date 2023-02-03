@@ -125,6 +125,10 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 [![@ashm10's Holopin board](https://holopin.me/ashm10)](https://holopin.io/@ashm10)
 
+### AWS Cloud Practitioner Badge:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5c372f6-5244-43b8-a257-3794697f275e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Hackathon Participation:
 
 <img width="217" alt="Screenshot 2022-11-22 at 2 30 14 PM" src="https://user-images.githubusercontent.com/89284873/203438352-7bb3545c-7835-41cc-be02-efa4118b0651.png">
