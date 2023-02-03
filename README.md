@@ -121,13 +121,16 @@ I would love to accept internship, apprenticeship or entry-level front-end roles
 
 - 🎧 [What it looks like to be an apprentice engineer at Pinterest](https://dev.to/codenewbie/s21e6-what-it-looks-like-to-be-an-apprentice-engineer-at-pinterest-alison-quaglia) - by Alison Quaglia
 
+### AWS Cloud Practitioner Badge:
+
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/89284873/216507811-65093bf9-10dc-4007-8e28-11adc579c060.png)
+
+[Verify here](https://www.credly.com/badges/e5c372f6-5244-43b8-a257-3794697f275e/public_url)
+
 ### Holopin Badges:
 
 [![@ashm10's Holopin board](https://holopin.me/ashm10)](https://holopin.io/@ashm10)
 
-### AWS Cloud Practitioner Badge:
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5c372f6-5244-43b8-a257-3794697f275e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Hackathon Participation:
 
